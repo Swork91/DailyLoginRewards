@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: DailyLoginRewards
+## Notes: Sends mail to your friends daily if they login to incentivise playing more WoW. 
+## Author: Swork
+## Version: 0.2
+## SavedVariables: DLR_database
+
+DailyLoginRewards.lua
